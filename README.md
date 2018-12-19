@@ -1,3 +1,1 @@
-# algSample1
-# autocomplete
-# autocomplete
+This is a work in progress to find recent bookmarks using the autocomplete feature of Windows Forms, and open them with the desired browser. 
